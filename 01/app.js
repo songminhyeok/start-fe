@@ -2,36 +2,34 @@
 console.log('app.js');
 
 
-//변수는 var 사용 권장
-var name = '김지연';
-var Name = '김지연';
+
+var name = '송민혁';
+var Name = '송민혁';
 
 
 console.log(name);
 console.log(Name);
 
 
-//주석
+
 console.log(1);
 console.log(2);
 
-/*
-
-*/
 
 
-// 숫자형
+
+
 var count = 1;
 console.log(count);
 
 
-var isMan = true;  //bool
-var isMan = "true"; //String
+var isMan = true;  
+var isMan = "true";
 
 console.log(isMan);
 
 
-//함수도 데이터 타입이다
+
 function log(str) {
     console.log(str);
 };
@@ -42,7 +40,7 @@ var log = function(str) {
 };
 
 
-//객체
+
 var image = {
     width: 100,
     height: 100,
@@ -53,13 +51,13 @@ var image1 = [1,2,3,4,5,6,'a',{}];
 image1[0] = 'a';
 
 
-var date = null; // 값이 없음
+var date = null;
 var data1 = '';
-var date2; //undefined
+var date2;
 
 console.log(data, data1, data2);
 
-// 이렇게 쓸수도 있는데 복잡함
+
 
 var imageWidth = 100;
 var imageHeight = 100;
