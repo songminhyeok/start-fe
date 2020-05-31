@@ -7,13 +7,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jnujiwon/start-fe.git"
+    "url": "git+https://github.com/songminhyeok/start-fe.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jnujiwon/start-fe/issues"
+    "url": "https://github.com/songminhyeok/start-fe/issues"
   },
-  "homepage": "https://github.com/jnujiwon/start-fe#readme",
+  "homepage": "https://github.com/songminhyeok/start-fe#readme",
   "description": ""
 }
